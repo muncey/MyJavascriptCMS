@@ -1,0 +1,22 @@
+{
+  "name": "myjavascriptcms",
+  "version": "1.0.0",
+  "description": "My Javascript CMS demonstration of building a CMS with pure Javascript and .NET",
+  "main": "index.js",
+  "scripts": {
+    "build": "rollup --config"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muncey/MyJavascriptCMS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muncey/MyJavascriptCMS/issues"
+  },
+  "homepage": "https://github.com/muncey/MyJavascriptCMS#readme",
+  "devDependencies": {
+    "rollup": "^2.28.1"
+  }
+}
